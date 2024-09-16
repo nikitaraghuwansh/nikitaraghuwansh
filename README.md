@@ -1,4 +1,4 @@
-<h1 align="center">Hi World 👋, I'm I'm Nikita Raghuwanshi</h1>
+<h1 align="center">Hi World 👋,  I'm Nikita Raghuwanshi</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXhwdWI4NDB0bGF4NzhuYW4xa243ZXdmcm5qMGkxa3E0MzVubW52NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BferOKonYOspm28AiB/giphy.gif">
 
